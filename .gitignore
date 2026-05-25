@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and outputs
+logs/
+outputs/
+results/
+wandb/
+lightning_logs/
+runs/
+
+# Data and checkpoints
+data/
+datasets/
+checkpoints/
+ckpts/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.h5
+*.hdf5
+*.npz
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary
+tmp/
+temp/
